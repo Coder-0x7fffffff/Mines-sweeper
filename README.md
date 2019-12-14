@@ -90,7 +90,8 @@
 	define.h            //常量定义（便于修改界面）
 
 - （2）测试数据及运行结果：
- 
+
+
 ![](https://github.com/Coder-0x7fffffff/Mines-sweeper/blob/master/img/3.png)
 ![](https://github.com/Coder-0x7fffffff/Mines-sweeper/blob/master/img/4.png)
 ![](https://github.com/Coder-0x7fffffff/Mines-sweeper/blob/master/img/5.png)
